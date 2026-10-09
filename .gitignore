@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.DS_Store
+*.mp4
+*.jpg
+*.png
+*.log
+.*.partial-*/
+analysis/
+output/

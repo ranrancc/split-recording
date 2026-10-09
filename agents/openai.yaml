@@ -1,0 +1,4 @@
+interface:
+  display_name: "会议与赛课录像切分"
+  short_description: "按报告、讲者或选手核对交接位置，无损切分录像、命名并保留时间清单与验证证据"
+  default_prompt: "用 $split-recording 根据议程或交接画面切分这份录像，并加序号重命名。"
